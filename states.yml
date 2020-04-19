@@ -1,0 +1,55 @@
+---
+- name: Antwerpen
+  country_id: "20"
+  id: "101"
+  abbr: VAN
+
+- name: Brabant Wallon
+  country_id: "20"
+  id: "102"
+  abbr: WBR
+
+- name: Brussels Capitat Region
+  country_id: "20"
+  id: "103"
+  abbr: BCR
+
+- name: Hainaut
+  country_id: "20"
+  id: "104"
+  abbr: WHT
+
+- name: Liège
+  country_id: "20"
+  id: "105"
+  abbr: WLG
+
+- name: Limburg
+  country_id: "20"
+  id: "106"
+  abbr: VLI
+
+- name: Luxembourg
+  country_id: "20"
+  id: "107"
+  abbr: WLX
+
+- name: Namur
+  country_id: "20"
+  id: "108"
+  abbr: WNA
+
+- name: Oost-Vlaanderen
+  country_id: "20"
+  id: "109"
+  abbr: VOV
+
+- name: Vlaams-Brabant
+  country_id: "20"
+  id: "110"
+  abbr: VBR
+
+- name: West-Vlaanderen
+  country_id: "20"
+  id: "111"
+  abbr: VWV
