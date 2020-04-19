@@ -1,55 +1,253 @@
 ---
-- name: Antwerpen
-  country_id: "20"
-  id: "101"
-  abbr: VAN
-
-- name: Brabant Wallon
-  country_id: "20"
-  id: "102"
-  abbr: WBR
-
-- name: Brussels Capitat Region
-  country_id: "20"
-  id: "103"
-  abbr: BCR
-
-- name: Hainaut
-  country_id: "20"
-  id: "104"
-  abbr: WHT
-
-- name: Liège
-  country_id: "20"
-  id: "105"
-  abbr: WLG
-
-- name: Limburg
-  country_id: "20"
-  id: "106"
-  abbr: VLI
-
-- name: Luxembourg
-  country_id: "20"
-  id: "107"
-  abbr: WLX
-
-- name: Namur
-  country_id: "20"
-  id: "108"
-  abbr: WNA
-
-- name: Oost-Vlaanderen
-  country_id: "20"
-  id: "109"
-  abbr: VOV
-
-- name: Vlaams-Brabant
-  country_id: "20"
-  id: "110"
-  abbr: VBR
-
-- name: West-Vlaanderen
-  country_id: "20"
-  id: "111"
-  abbr: VWV
+- name: Республика Адыгея
+  id: '7000001'
+  country_id: '007'
+- name: Республика Алтай
+  id: '7000002'
+  country_id: '007'
+- name: Республика Башкортостан
+  id: '7000003'
+  country_id: '007'
+- name: Республика Бурятия
+  id: '7000004'
+  country_id: '007'
+- name: Республика Дагестан
+  id: '7000005'
+  country_id: '007'
+- name: Республика Ингушетия
+  id: '7000006'
+  country_id: '007'
+- name: Кабардино-Балкарская Республика
+  id: '7000007'
+  country_id: '007'
+- name: Республика Калмыкия
+  id: '7000008'
+  country_id: '007'
+- name: Карачаево-Черкесская Республика
+  id: '7000009'
+  country_id: '007'
+- name: Республика Карелия
+  id: '7000010'
+  country_id: '007'
+- name: Республика Коми
+  id: '7000011'
+  country_id: '007'
+- name: Республика Марий Эл
+  id: '7000012'
+  country_id: '007'
+- name: Республика Мордовия
+  id: '7000013'
+  country_id: '007'
+- name: Республика Саха (Якутия)
+  id: '7000014'
+  country_id: '007'
+- name: Республика Северная Осетия - Алания
+  id: '7000015'
+  country_id: '007'
+- name: Республика Татарстан (Татарстан)
+  id: '7000016'
+  country_id: '007'
+- name: Республика Тыва
+  id: '7000017'
+  country_id: '007'
+- name: Удмуртская Республика
+  id: '7000018'
+  country_id: '007'
+- name: Республика Хакасия
+  id: '7000019'
+  country_id: '007'
+- name: Чеченская Республика
+  id: '7000020'
+  country_id: '007'
+- name: Чувашская Республика
+  id: '7000021'
+  country_id: '007'
+- name: Алтайский край
+  id: '7000022'
+  country_id: '007'
+- name: Забайкальский край
+  id: '7000023'
+  country_id: '007'
+- name: Камчатский край
+  id: '7000024'
+  country_id: '007'
+- name: Краснодарский край
+  id: '7000025'
+  country_id: '007'
+- name: Красноярский край
+  id: '7000026'
+  country_id: '007'
+- name: Пермский край
+  id: '7000027'
+  country_id: '007'
+- name: Приморский край
+  id: '7000028'
+  country_id: '007'
+- name: Ставропольский край
+  id: '7000029'
+  country_id: '007'
+- name: Хабаровский край
+  id: '7000030'
+  country_id: '007'
+- name: Амурская область
+  id: '7000031'
+  country_id: '007'
+- name: Архангельская область
+  id: '7000032'
+  country_id: '007'
+- name: Астраханская область
+  id: '7000033'
+  country_id: '007'
+- name: Белгородская область
+  id: '7000034'
+  country_id: '007'
+- name: Брянская область
+  id: '7000035'
+  country_id: '007'
+- name: Владимирская область
+  id: '7000036'
+  country_id: '007'
+- name: Волгоградская область
+  id: '7000037'
+  country_id: '007'
+- name: Вологодская область
+  id: '7000038'
+  country_id: '007'
+- name: Воронежская область
+  id: '7000039'
+  country_id: '007'
+- name: Ивановская область
+  id: '7000040'
+  country_id: '007'
+- name: Иркутская область
+  id: '7000041'
+  country_id: '007'
+- name: Калининградская область
+  id: '7000042'
+  country_id: '007'
+- name: Калужская область
+  id: '7000043'
+  country_id: '007'
+- name: Кемеровская область
+  id: '7000044'
+  country_id: '007'
+- name: Кировская область
+  id: '7000045'
+  country_id: '007'
+- name: Костромская область
+  id: '7000046'
+  country_id: '007'
+- name: Курганская область
+  id: '7000047'
+  country_id: '007'
+- name: Курская область
+  id: '7000048'
+  country_id: '007'
+- name: Ленинградская область
+  id: '7000049'
+  country_id: '007'
+- name: Липецкая область
+  id: '7000050'
+  country_id: '007'
+- name: Магаданская область
+  id: '7000051'
+  country_id: '007'
+- name: Московская область
+  id: '7000052'
+  country_id: '007'
+- name: Мурманская область
+  id: '7000053'
+  country_id: '007'
+- name: Нижегородская область
+  id: '7000054'
+  country_id: '007'
+- name: Новгородская область
+  id: '7000055'
+  country_id: '007'
+- name: Новосибирская область
+  id: '7000056'
+  country_id: '007'
+- name: Омская область
+  id: '7000057'
+  country_id: '007'
+- name: Оренбургская область
+  id: '7000058'
+  country_id: '007'
+- name: Орловская область
+  id: '7000059'
+  country_id: '007'
+- name: Пензенская область
+  id: '7000060'
+  country_id: '007'
+- name: Псковская область
+  id: '7000061'
+  country_id: '007'
+- name: Ростовская область
+  id: '7000062'
+  country_id: '007'
+- name: Рязанская область
+  id: '7000063'
+  country_id: '007'
+- name: Самарская область
+  id: '7000064'
+  country_id: '007'
+- name: Саратовская область
+  id: '7000065'
+  country_id: '007'
+- name: Сахалинская область
+  id: '7000066'
+  country_id: '007'
+- name: Свердловская область
+  id: '7000067'
+  country_id: '007'
+- name: Смоленская область
+  id: '7000068'
+  country_id: '007'
+- name: Тамбовская область
+  id: '7000069'
+  country_id: '007'
+- name: Тверская область
+  id: '7000070'
+  country_id: '007'
+- name: Томская область
+  id: '7000071'
+  country_id: '007'
+- name: Тульская область
+  id: '7000072'
+  country_id: '007'
+- name: Тюменская область
+  id: '7000073'
+  country_id: '007'
+- name: Ульяновская область
+  id: '7000074'
+  country_id: '007'
+- name: Челябинская область
+  id: '7000075'
+  country_id: '007'
+- name: Ярославская область
+  id: '7000076'
+  country_id: '007'
+- name: Москва
+  id: '7000077'
+  country_id: '007'
+- name: Санкт-Петербург
+  id: '7000078'
+  country_id: '007'
+- name: Еврейская автономная область
+  id: '7000079'
+  country_id: '007'
+- name: Таймырский автономный округ
+  id: '7000080'
+  country_id: '007'
+- name: Ханты-Мансийский автономный округ
+  id: '7000081'
+  country_id: '007'
+- name: Чукотский автономный округ
+  id: '7000082'
+  country_id: '007'
+- name: Ямало-Ненецкий автономный округ
+  id: '7000083'
+  country_id: '007'
+- name: Ненецкий автономный округ
+  id: '7000084'
+  country_id: '007'
