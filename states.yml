@@ -303,10 +303,10 @@
   id: '76'
   country_id: '643'
   abbr: Ярославская область
-- name: г. Москва
+- name: Москва
   id: '77'
   country_id: '643'
-  abbr: г. Москва
+  abbr: Москва
 - name: Санкт-Петербург
   id: '78'
   country_id: '643'
