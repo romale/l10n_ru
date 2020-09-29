@@ -1,345 +1,345 @@
 ---
 - name: Республика Адыгея (Адыгея)
   id: '1'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Адыгея (Адыгея)
 - name: Республика Башкортостан
   id: '2'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Башкортостан
 - name: Республика Бурятия
   id: '3'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Бурятия
 - name: Республика Алтай
   id: '4'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Алтай
 - name: Республика Дагестан
   id: '5'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Дагестан
 - name: Республика Ингушетия
   id: '6'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Ингушетия
 - name: Кабардино-Балкарская Республика
   id: '7'
-  country_id: '643'
+  country_id: '168'
   abbr: Кабардино-Балкарская Республика
 - name: Республика Калмыкия
   id: '8'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Калмыкия
 - name: Карачаево-Черкесская Республика
   id: '9'
-  country_id: '643'
+  country_id: '168'
   abbr: Карачаево-Черкесская Республика
 - name: Республика Карелия
   id: '10'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Карелия
 - name: Республика Коми
   id: '11'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Коми
 - name: Республика Марий Эл
   id: '12'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Марий Эл
 - name: Республика Мордовия
   id: '13'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Мордовия
 - name: Республика Саха (Якутия)
   id: '14'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Саха (Якутия)
 - name: Республика Северная Осетия - Алания
   id: '15'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Северная Осетия - Алания
 - name: Республика Татарстан (Татарстан)
   id: '16'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Татарстан (Татарстан)
 - name: Республика Тыва
   id: '17'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Тыва
 - name: Удмуртская Республика
   id: '18'
-  country_id: '643'
+  country_id: '168'
   abbr: Удмуртская Республика
 - name: Республика Хакасия
   id: '19'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Хакасия
 - name: Чеченская Республика
   id: '20'
-  country_id: '643'
+  country_id: '168'
   abbr: Чеченская Республика
 - name: Чувашская Республика - Чувашия
   id: '21'
-  country_id: '643'
+  country_id: '168'
   abbr: Чувашская Республика - Чувашия
 - name: Алтайский край
   id: '22'
-  country_id: '643'
+  country_id: '168'
   abbr: Алтайский край
 - name: Краснодарский край
   id: '23'
-  country_id: '643'
+  country_id: '168'
   abbr: Краснодарский край
 - name: Красноярский край
   id: '24'
-  country_id: '643'
+  country_id: '168'
   abbr: Красноярский край
 - name: Приморский край
   id: '25'
-  country_id: '643'
+  country_id: '168'
   abbr: Приморский край
 - name: Ставропольский край
   id: '26'
-  country_id: '643'
+  country_id: '168'
   abbr: Ставропольский край
 - name: Хабаровский край
   id: '27'
-  country_id: '643'
+  country_id: '168'
   abbr: Хабаровский край
 - name: Амурская область
   id: '28'
-  country_id: '643'
+  country_id: '168'
   abbr: Амурская область
 - name: Архангельская область
   id: '29'
-  country_id: '643'
+  country_id: '168'
   abbr: Архангельская область
 - name: Астраханская область
   id: '30'
-  country_id: '643'
+  country_id: '168'
   abbr: Астраханская область
 - name: Белгородская область
   id: '31'
-  country_id: '643'
+  country_id: '168'
   abbr: Белгородская область
 - name: Брянская область
   id: '32'
-  country_id: '643'
+  country_id: '168'
   abbr: Брянская область
 - name: Владимирская область
   id: '33'
-  country_id: '643'
+  country_id: '168'
   abbr: Владимирская область
 - name: Волгоградская область
   id: '34'
-  country_id: '643'
+  country_id: '168'
   abbr: Волгоградская область
 - name: Вологодская область
   id: '35'
-  country_id: '643'
+  country_id: '168'
   abbr: Вологодская область
 - name: Воронежская область
   id: '36'
-  country_id: '643'
+  country_id: '168'
   abbr: Воронежская область
 - name: Ивановская область
   id: '37'
-  country_id: '643'
+  country_id: '168'
   abbr: Ивановская область
 - name: Иркутская область
   id: '38'
-  country_id: '643'
+  country_id: '168'
   abbr: Иркутская область
 - name: Калининградская область
   id: '39'
-  country_id: '643'
+  country_id: '168'
   abbr: Калининградская область
 - name: Калужская область
   id: '40'
-  country_id: '643'
+  country_id: '168'
   abbr: Калужская область
 - name: Камчатский край
   id: '41'
-  country_id: '643'
+  country_id: '168'
   abbr: Камчатский край
 - name: Кемеровская область
   id: '42'
-  country_id: '643'
+  country_id: '168'
   abbr: Кемеровская область
 - name: Кировская область
   id: '43'
-  country_id: '643'
+  country_id: '168'
   abbr: Кировская область
 - name: Костромская область
   id: '44'
-  country_id: '643'
+  country_id: '168'
   abbr: Костромская область
 - name: Курганская область
   id: '45'
-  country_id: '643'
+  country_id: '168'
   abbr: Курганская область
 - name: Курская область
   id: '46'
-  country_id: '643'
+  country_id: '168'
   abbr: Курская область
 - name: Ленинградская область
   id: '47'
-  country_id: '643'
+  country_id: '168'
   abbr: Ленинградская область
 - name: Липецкая область
   id: '48'
-  country_id: '643'
+  country_id: '168'
   abbr: Липецкая область
 - name: Магаданская область
   id: '49'
-  country_id: '643'
+  country_id: '168'
   abbr: Магаданская область
 - name: Московская область
   id: '50'
-  country_id: '643'
+  country_id: '168'
   abbr: Московская область
 - name: Мурманская область
   id: '51'
-  country_id: '643'
+  country_id: '168'
   abbr: Мурманская область
 - name: Нижегородская область
   id: '52'
-  country_id: '643'
+  country_id: '168'
   abbr: Нижегородская область
 - name: Новгородская область
   id: '53'
-  country_id: '643'
+  country_id: '168'
   abbr: Новгородская область
 - name: Новосибирская область
   id: '54'
-  country_id: '643'
+  country_id: '168'
   abbr: Новосибирская область
 - name: Омская область
   id: '55'
-  country_id: '643'
+  country_id: '168'
   abbr: Омская область
 - name: Оренбургская область
   id: '56'
-  country_id: '643'
+  country_id: '168'
   abbr: Оренбургская область
 - name: Орловская область
   id: '57'
-  country_id: '643'
+  country_id: '168'
   abbr: Орловская область
 - name: Пензенская область
   id: '58'
-  country_id: '643'
+  country_id: '168'
   abbr: Пензенская область
 - name: Пермский край
   id: '59'
-  country_id: '643'
+  country_id: '168'
   abbr: Пермский край
 - name: Псковская область
   id: '60'
-  country_id: '643'
+  country_id: '168'
   abbr: Псковская область
 - name: Ростовская область
   id: '61'
-  country_id: '643'
+  country_id: '168'
   abbr: Ростовская область
 - name: Рязанская область
   id: '62'
-  country_id: '643'
+  country_id: '168'
   abbr: Рязанская область
 - name: Самарская область
   id: '63'
-  country_id: '643'
+  country_id: '168'
   abbr: Самарская область
 - name: Саратовская область
   id: '64'
-  country_id: '643'
+  country_id: '168'
   abbr: Саратовская область
 - name: Сахалинская область
   id: '65'
-  country_id: '643'
+  country_id: '168'
   abbr: Сахалинская область
 - name: Свердловская область
   id: '66'
-  country_id: '643'
+  country_id: '168'
   abbr: Свердловская область
 - name: Смоленская область
   id: '67'
-  country_id: '643'
+  country_id: '168'
   abbr: Смоленская область
 - name: Тамбовская область
   id: '68'
-  country_id: '643'
+  country_id: '168'
   abbr: Тамбовская область
 - name: Тверская область
   id: '69'
-  country_id: '643'
+  country_id: '168'
   abbr: Тверская область
 - name: Томская область
   id: '70'
-  country_id: '643'
+  country_id: '168'
   abbr: Томская область
 - name: Тульская область
   id: '71'
-  country_id: '643'
+  country_id: '168'
   abbr: Тульская область
 - name: Тюменская область
   id: '72'
-  country_id: '643'
+  country_id: '168'
   abbr: Тюменская область
 - name: Ульяновская область
   id: '73'
-  country_id: '643'
+  country_id: '168'
   abbr: Ульяновская область
 - name: Челябинская область
   id: '74'
-  country_id: '643'
+  country_id: '168'
   abbr: Челябинская область
 - name: Забайкальский край
   id: '75'
-  country_id: '643'
+  country_id: '168'
   abbr: Забайкальский край
 - name: Ярославская область
   id: '76'
-  country_id: '643'
+  country_id: '168'
   abbr: Ярославская область
 - name: Москва
   id: '77'
-  country_id: '643'
+  country_id: '168'
   abbr: Москва
 - name: Санкт-Петербург
   id: '78'
-  country_id: '643'
+  country_id: '168'
   abbr: Санкт-Петербург
 - name: Еврейская автономная область
   id: '79'
-  country_id: '643'
+  country_id: '168'
   abbr: Еврейская автономная область
 - name: Ненецкий автономный округ
   id: '83'
-  country_id: '643'
+  country_id: '168'
   abbr: Ненецкий автономный округ
 - name: Ханты-Мансийский автономный округ - Югра
   id: '86'
-  country_id: '643'
+  country_id: '168'
   abbr: Ханты-Мансийский автономный округ - Югра
 - name: Чукотский автономный округ
   id: '87'
-  country_id: '643'
+  country_id: '168'
   abbr: Чукотский автономный округ
 - name: Ямало-Ненецкий автономный округ
   id: '89'
-  country_id: '643'
+  country_id: '168'
   abbr: Ямало-Ненецкий автономный округ
 - name: Республика Крым
   id: '91'
-  country_id: '643'
+  country_id: '168'
   abbr: Республика Крым
 - name: Севастополь
   id: '92'
-  country_id: '643'
+  country_id: '168'
   abbr: Севастополь
 - name: Иные территории, включая город и космодром Байконур
   id: '99'
-  country_id: '643'
+  country_id: '168'
   abbr: Иные территории, включая город и космодром Байконур
